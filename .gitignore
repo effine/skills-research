@@ -1,0 +1,12 @@
+# dir
+/target
+/.settings
+/bing
+
+# file
+.project
+.classpath
+*.war
+*.ear
+*.jar
+*.class
