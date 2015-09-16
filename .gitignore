@@ -2,6 +2,7 @@
 /target
 /.settings
 /bing
+/.gradle
 
 # file
 .project
